@@ -1,0 +1,62 @@
+a{
+    color: black;
+    font-family: 'Baloo 2', cursive;
+    font-weight: bolder;
+}
+nav{
+    
+}
+strong{
+    size: 80px !important;
+}
+body{
+    background-clip: border-box;
+    overflow: hidden;
+    background-image: url("img/jio.jpg");
+    height: 120vh;
+    width: 100%;
+   background-size: cover;
+    background-repeat: no-repeat;
+    /*background-size: 100%;
+    background-repeat:repeat-y;
+    background-color: black;
+    background-origin:*/ 
+}
+div>h3{
+    margin-top: 2%;
+    color:;
+    font-family: 'Poppins', sans-serif;
+}
+div>button{
+    size: 100px !important;
+}
+#snippet{
+    margin: auto;
+    padding: auto;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+#vode{
+    z-index: -2;
+    opacity: 80%;
+}
+#about{
+    margin: auto;
+    padding: auto;
+    margin-top: 15%;
+}
+/*#maharaja{
+    background-image: url("img/picolo.jpg");
+
+}*/
+@media (max-width: 786px){
+    body{
+
+    }
+}
+.earthin{
+    margin-bottom: 0px;
+    margin-top: 42%;
+    text-align: center;
+
+}

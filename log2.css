@@ -1,0 +1,23 @@
+a{
+	color: black;
+    font-family: 'Baloo 2', cursive;
+    font-weight: bolder;
+}
+input{
+	border-radius: 10px;
+	width: 15em;
+}
+button{
+	border-radius: 00px;
+	border:2px solid black;
+	margin: 1px;
+
+}
+.form{
+	border: 2px solid black;
+	border-radius: 0px;
+}
+.form-element{
+	padding: 15px;
+	padding-left: 10%;
+}
